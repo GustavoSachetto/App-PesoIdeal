@@ -1,6 +1,5 @@
 const botao = document.querySelector('.botao');
 const imagem = document.querySelector('.img-botao');
-const header = document.getElementById('header');
 const nav = document.getElementById('nav');
 
 function abrirMenu() {
