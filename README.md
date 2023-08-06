@@ -3,6 +3,7 @@ Site criado para consolidar HTML e CSS. __Site feito para conclusão do curso HT
 
 ## Ultilizado
 __HTML:__ semântica, links externos e internos, vídeo, áudio, imagem dinâmica, hierarquia de títulos e lista 
+
 __CSS:__ importando fonte externa e interna, root, animação e responsivo
 
 * link de acesso: https://gustavosachetto.github.io/Site-Android/
