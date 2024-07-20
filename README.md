@@ -1,4 +1,7 @@
 # Site-Android
+![Android](https://github.com/user-attachments/assets/93f76436-b8db-431e-8652-cee79c176b19)
+
+## Sobre
 Projeto criado para consolidar o processo de desenvolvimento de sites com HTML5 e CSS3. Este site foi proposto como atividade final para conclusão do __curso HTML5 e CSS3: Modulo 2 de 5 (Curso em Vídeo).__
 
 * link de acesso: https://gustavosachetto.github.io/Site-Android/
@@ -30,8 +33,5 @@ Confira abaixo os principais tópicos utilizados para o desenvolvimento deste we
 * Declaração de variáveis e funções
 * Estrutura de condição
 * Seleção de elementos
-
-## Resultado
-![Android](https://github.com/user-attachments/assets/e36384ad-7a0c-46ab-926e-e3f081ebf149)
 
 *****************
