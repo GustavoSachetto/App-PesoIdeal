@@ -8,9 +8,9 @@ Projeto criado para consolidar o processo de desenvolvimento de sites com HTML5 
 
 ## Desenvolvendo
 
-Confira abaixo os principais tópicos utilizados para o desenvolvimento deste website. 
+Para desenvolver este site tive que utilizar os principais conceitos do HTML e CSS. Confira abaixo os tópicos de estudo abordados no projeto. 
 
-### HTML: 
+### HTML 
 * Tags semânticas (header, main, footer)
 * Links internos e externos (a href)
 * Importação de vídeo (iframe)
@@ -19,7 +19,7 @@ Confira abaixo os principais tópicos utilizados para o desenvolvimento deste we
 * Hierarquia de títulos (h1, h2, h3...) 
 * Lista desordenada (ul)
 
-### CSS:
+### CSS
 * Importação de fonte,
 * Declaração de variáveis (root),
 * Layout flexbox,
@@ -29,7 +29,7 @@ Confira abaixo os principais tópicos utilizados para o desenvolvimento deste we
 * Animação (keyframes)
 * Responsividade (mediaquery)
 
-### JS:
+### JS
 * Declaração de variáveis e funções
 * Estrutura de condição
 * Seleção de elementos
