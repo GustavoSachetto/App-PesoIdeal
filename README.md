@@ -1,10 +1,19 @@
 # Site-Android
-Site criado para consolidar HTML e CSS. __Site feito para conclusão do curso HTML5 e CSS3: Modulo 2 de 5 [40 horas].__
-
-## Ultilizado no site:
-
-__HTML:__ semântica, links externos e internos, vídeo, áudio, imagem dinâmica, hierarquia de títulos e lista 
-
-__CSS:__ importando fonte externa e interna, root, animação e responsivo
+Projeto criado para consolidar o processo de desenvolvimento de sites com HTML5 e CSS3. Este site foi proposto como atividade final para conclusão do __curso HTML5 e CSS3: Modulo 2 de 5 (Curso em Vídeo).__
 
 * link de acesso: https://gustavosachetto.github.io/Site-Android/
+
+## Desenvolvendo:
+
+__HTML:__ 
+* Tags semânticas (header, main, footer)
+* links internos e externos (a href)
+* importação de vídeo (iframe)
+* importação de áudio
+* imagem dinâmica
+* hierarquia de títulos (h1, h2, h3...) 
+* lista desordenada (ul)
+
+* __CSS:__ Importação de fonte, declaração de variáveis (root), layout flexbox, principais seletores, pseudo-classes, pseudo-elementos, animação (keyframes) e responsividade (mediaquery)
+
+* __JS:__
