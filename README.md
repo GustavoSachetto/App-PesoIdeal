@@ -3,17 +3,35 @@ Projeto criado para consolidar o processo de desenvolvimento de sites com HTML5 
 
 * link de acesso: https://gustavosachetto.github.io/Site-Android/
 
-## Desenvolvendo:
+## Desenvolvendo
 
-__HTML:__ 
+Confira abaixo os principais tópicos utilizados para o desenvolvimento deste website. 
+
+### HTML: 
 * Tags semânticas (header, main, footer)
-* links internos e externos (a href)
-* importação de vídeo (iframe)
-* importação de áudio
-* imagem dinâmica
-* hierarquia de títulos (h1, h2, h3...) 
-* lista desordenada (ul)
+* Links internos e externos (a href)
+* Importação de vídeo (iframe)
+* Importação de áudio
+* Imagem dinâmica
+* Hierarquia de títulos (h1, h2, h3...) 
+* Lista desordenada (ul)
 
-* __CSS:__ Importação de fonte, declaração de variáveis (root), layout flexbox, principais seletores, pseudo-classes, pseudo-elementos, animação (keyframes) e responsividade (mediaquery)
+### CSS:
+* Importação de fonte,
+* Declaração de variáveis (root),
+* Layout flexbox,
+* Principais seletores,
+* Pseudo-classes,
+* Pseudo-elementos,
+* Animação (keyframes)
+* Responsividade (mediaquery)
 
-* __JS:__
+### JS:
+* Declaração de variáveis e funções
+* Estrutura de condição
+* Seleção de elementos
+
+## Resultado
+![Android](https://github.com/user-attachments/assets/e36384ad-7a0c-46ab-926e-e3f081ebf149)
+
+*****************
