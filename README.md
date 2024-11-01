@@ -4,7 +4,7 @@
 ## Sobre
 Projeto criado para consolidar o processo de desenvolvimento de sites com HTML5 e CSS3. Este site foi proposto como atividade final para conclusão do __curso HTML5 e CSS3: Modulo 2 de 5 (Curso em Vídeo).__
 
-* __Link de acesso:__ https://gustavosachetto.github.io/Site-Android/
+* __Link de acesso:__ https://gustavosachetto.site/site-android
 
 ## Desenvolvendo
 
